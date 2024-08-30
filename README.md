@@ -33,6 +33,6 @@ Or you can visit our [**Document**](https://continued-doc.readthedocs.io/en/late
 
 
 ## Improvements
-We welcome any comments about `CONTINUED`, and if you find bugs or have any ideas, feel free to leave a comment [FAQ](https://github.com/Tang-Lab-super/PROST/labels/FAQ).
+We welcome any comments about `CONTINUED`, and if you find bugs or have any ideas, feel free to leave a comment [FAQ](https://github.com/Tang-Lab-super/CONTINUED/issues).
 
 
