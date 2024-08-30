@@ -3,7 +3,7 @@
 
 ## Overview
 `CONTINUED` is a algorithm to process *In situ* metabonomics data include reconstruction of histological spatial structure based on single sample clustering, integration of multiple samples and annotation with LC-MS data.
-![figure1](./docs/Img/Overview.png)
+![figure1](./Img/Overview.png)
 
 
 Using `CONTINUED` you can do:
